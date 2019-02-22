@@ -1,7 +1,9 @@
 import mysql.connector as mariadb
 
-mariadb_connection = mariadb.connect(
-    user='root', 
-    password='', 
-    database='agro'
+def mariadb_connection():
+    mariadb_connection = mariadb.connect(
+        user='root', 
+        password='',
+        database='agro'
     )
+    return mariadb_connection
