@@ -19,3 +19,4 @@ for firstname, age in cursor:
 
 matplotlib.pyplot.plot(firstname_list, age_list)
 matplotlib.pyplot.show()
+
