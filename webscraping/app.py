@@ -3,13 +3,13 @@ from selenium.webdriver.support.ui import Select
 from time import sleep
 from data_scraping import get_botao_avancar, get_driver, get_header, get_value
 from config import *
-#import database
-#import mysql.connector as mariadb
+import database
+import mysql.connector as mariadb
 
 def app():
 
-    # mariadb_connection = database.mariadb_connection()
-    # cursor = mariadb_connection.cursor()
+    mariadb_connection = database.mariadb_connection()
+    cursor = mariadb_connection.cursor()
     
     data_dict = {}
     header = []
@@ -33,7 +33,10 @@ def app():
         except Exception:
             break
     
-    # cursor.execute("insert into licitacao ()")
+    sleep(3)
+    for i in range(len(data_dict['Licitador'])):
+        cursor.execute("insert into licitacao (dt_abertura, licitador, modalidade, nr_publicacao, objeto) VALUES ('{}','{}','{}','{}','{}')".format(data_dict[header[0]][i], data_dict[header[1]][i], data_dict[header[2]][i], data_dict[header[3]][i], data_dict[header[4]][i]))
+    mariadb_connection.commit()
     return data_dict
 
 data_dict = app()
