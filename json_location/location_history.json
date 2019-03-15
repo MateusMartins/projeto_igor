@@ -1,0 +1,724 @@
+{
+  "location_history": [
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.6694843,
+        "longitude": -46.699950433333
+      },
+      "creation_timestamp": 1552602980
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.67716,
+        "longitude": -46.70205
+      },
+      "creation_timestamp": 1552601749
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.63531,
+        "longitude": -46.71937
+      },
+      "creation_timestamp": 1552601140
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.59372,
+        "longitude": -46.69278
+      },
+      "creation_timestamp": 1552600521
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56715,
+        "longitude": -46.7029
+      },
+      "creation_timestamp": 1552600192
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56721,
+        "longitude": -46.69388
+      },
+      "creation_timestamp": 1552599784
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5701,
+        "longitude": -46.69176
+      },
+      "creation_timestamp": 1552581537
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56878,
+        "longitude": -46.69093
+      },
+      "creation_timestamp": 1552576770
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.57013,
+        "longitude": -46.69175
+      },
+      "creation_timestamp": 1552574501
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5632,
+        "longitude": -46.69086
+      },
+      "creation_timestamp": 1552573098
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.55576,
+        "longitude": -46.68096
+      },
+      "creation_timestamp": 1552572493
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54369,
+        "longitude": -46.68855
+      },
+      "creation_timestamp": 1552532106
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56273,
+        "longitude": -46.68541
+      },
+      "creation_timestamp": 1552531152
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56732,
+        "longitude": -46.68703
+      },
+      "creation_timestamp": 1552530964
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5677,
+        "longitude": -46.68843
+      },
+      "creation_timestamp": 1552530274
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5682,
+        "longitude": -46.68972
+      },
+      "creation_timestamp": 1552523146
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56649,
+        "longitude": -46.68477
+      },
+      "creation_timestamp": 1552517839
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56989,
+        "longitude": -46.69207
+      },
+      "creation_timestamp": 1552495711
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56822,
+        "longitude": -46.69064
+      },
+      "creation_timestamp": 1552492995
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.57011,
+        "longitude": -46.69172
+      },
+      "creation_timestamp": 1552486862
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5691,
+        "longitude": -46.687
+      },
+      "creation_timestamp": 1552484603
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.55707,
+        "longitude": -46.68864
+      },
+      "creation_timestamp": 1552483932
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54364,
+        "longitude": -46.68873
+      },
+      "creation_timestamp": 1552443856
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5468,
+        "longitude": -46.6869
+      },
+      "creation_timestamp": 1552443219
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5708,
+        "longitude": -46.68989
+      },
+      "creation_timestamp": 1552441866
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56992,
+        "longitude": -46.69182
+      },
+      "creation_timestamp": 1552439016
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.55577,
+        "longitude": -46.6877
+      },
+      "creation_timestamp": 1552437752
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.57013,
+        "longitude": -46.69175
+      },
+      "creation_timestamp": 1552408806
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56777,
+        "longitude": -46.69027
+      },
+      "creation_timestamp": 1552406473
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56897,
+        "longitude": -46.68919
+      },
+      "creation_timestamp": 1552404683
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56921,
+        "longitude": -46.69194
+      },
+      "creation_timestamp": 1552397911
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.55523,
+        "longitude": -46.69504
+      },
+      "creation_timestamp": 1552397295
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.53452,
+        "longitude": -46.68769
+      },
+      "creation_timestamp": 1552359075
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54329,
+        "longitude": -46.68841
+      },
+      "creation_timestamp": 1552356179
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.53304,
+        "longitude": -46.69184
+      },
+      "creation_timestamp": 1552355444
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.52779,
+        "longitude": -46.69168
+      },
+      "creation_timestamp": 1552341635
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54242,
+        "longitude": -46.70025
+      },
+      "creation_timestamp": 1552340521
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56538,
+        "longitude": -46.70242
+      },
+      "creation_timestamp": 1552339878
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.57015,
+        "longitude": -46.69185
+      },
+      "creation_timestamp": 1552321716
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56763,
+        "longitude": -46.69394
+      },
+      "creation_timestamp": 1552319393
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.57013,
+        "longitude": -46.69175
+      },
+      "creation_timestamp": 1552309519
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5437,
+        "longitude": -46.68864
+      },
+      "creation_timestamp": 1552269848
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56918,
+        "longitude": -46.64699
+      },
+      "creation_timestamp": 1552268566
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.60586,
+        "longitude": -46.50982
+      },
+      "creation_timestamp": 1552267921
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.51584,
+        "longitude": -46.62573
+      },
+      "creation_timestamp": 1552265945
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.51687,
+        "longitude": -46.62424
+      },
+      "creation_timestamp": 1552263757
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.53765,
+        "longitude": -46.63366
+      },
+      "creation_timestamp": 1552262888
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54136,
+        "longitude": -46.42374
+      },
+      "creation_timestamp": 1552262736
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.55401,
+        "longitude": -46.67084
+      },
+      "creation_timestamp": 1552261795
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54626,
+        "longitude": -46.69014
+      },
+      "creation_timestamp": 1552260670
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54367,
+        "longitude": -46.68854
+      },
+      "creation_timestamp": 1552258971
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54594,
+        "longitude": -46.69132
+      },
+      "creation_timestamp": 1552257524
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54812,
+        "longitude": -46.68624
+      },
+      "creation_timestamp": 1552256866
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.57055,
+        "longitude": -46.67656
+      },
+      "creation_timestamp": 1552256248
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5888,
+        "longitude": -46.67425
+      },
+      "creation_timestamp": 1552255879
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5941,
+        "longitude": -46.67453
+      },
+      "creation_timestamp": 1552254637
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.59164,
+        "longitude": -46.67275
+      },
+      "creation_timestamp": 1552253976
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56175,
+        "longitude": -46.67988
+      },
+      "creation_timestamp": 1552253360
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.55764,
+        "longitude": -46.68245
+      },
+      "creation_timestamp": 1552253316
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.53987,
+        "longitude": -46.68125
+      },
+      "creation_timestamp": 1552251832
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5437,
+        "longitude": -46.68859
+      },
+      "creation_timestamp": 1552169606
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54631,
+        "longitude": -46.69188
+      },
+      "creation_timestamp": 1552168973
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.545,
+        "longitude": -46.69313
+      },
+      "creation_timestamp": 1552168393
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54759,
+        "longitude": -46.68933
+      },
+      "creation_timestamp": 1552167756
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54368,
+        "longitude": -46.6886
+      },
+      "creation_timestamp": 1552149684
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54527,
+        "longitude": -46.68942
+      },
+      "creation_timestamp": 1552149089
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.55165,
+        "longitude": -46.6565
+      },
+      "creation_timestamp": 1552148417
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.55567,
+        "longitude": -46.65023
+      },
+      "creation_timestamp": 1552147716
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56649,
+        "longitude": -46.65643
+      },
+      "creation_timestamp": 1552144652
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56598,
+        "longitude": -46.65504
+      },
+      "creation_timestamp": 1552143727
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56756,
+        "longitude": -46.65496
+      },
+      "creation_timestamp": 1552141963
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.55247,
+        "longitude": -46.67489
+      },
+      "creation_timestamp": 1552141331
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54371,
+        "longitude": -46.68852
+      },
+      "creation_timestamp": 1552094055
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5456,
+        "longitude": -46.6901
+      },
+      "creation_timestamp": 1552088895
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54366,
+        "longitude": -46.68853
+      },
+      "creation_timestamp": 1552086001
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54492,
+        "longitude": -46.68937
+      },
+      "creation_timestamp": 1552085188
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56441,
+        "longitude": -46.68427
+      },
+      "creation_timestamp": 1552084577
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56834,
+        "longitude": -46.68901
+      },
+      "creation_timestamp": 1552084278
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.57188,
+        "longitude": -46.69039
+      },
+      "creation_timestamp": 1552084001
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5701,
+        "longitude": -46.69175
+      },
+      "creation_timestamp": 1552061825
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56768,
+        "longitude": -46.69399
+      },
+      "creation_timestamp": 1552060124
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.56982,
+        "longitude": -46.69149
+      },
+      "creation_timestamp": 1552043069
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.54364,
+        "longitude": -46.68875
+      },
+      "creation_timestamp": 1552014386
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.60061,
+        "longitude": -46.49118
+      },
+      "creation_timestamp": 1552013417
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.5674,
+        "longitude": -46.70179
+      },
+      "creation_timestamp": 1552012654
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.59352,
+        "longitude": -46.69238
+      },
+      "creation_timestamp": 1552011897
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.66091,
+        "longitude": -46.71593
+      },
+      "creation_timestamp": 1552011249
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.67755,
+        "longitude": -46.70216
+      },
+      "creation_timestamp": 1552010847
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.67528,
+        "longitude": -46.69972
+      },
+      "creation_timestamp": 1552010580
+    },
+    {
+      "name": "S\u00c3\u00a3o Paulo",
+      "coordinate": {
+        "latitude": -23.66959,
+        "longitude": -46.69995
+      },
+      "creation_timestamp": 1551997102
+    }
+  ]
+}

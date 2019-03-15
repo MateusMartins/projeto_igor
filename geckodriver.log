@@ -1954,3 +1954,22 @@ console.error: BroadcastService:
 
 [Parent 12567, Gecko_IOThread] WARNING: pipe error (85): Conexão fechada pela outra ponta: file /build/firefox-eA9fYo/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
 1552434706920	Marionette	INFO	Stopped listening on port 43229
+1552438018603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Tjn4XVGL1en7"
+1552438019033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552438019034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:16967): Gtk-WARNING **: 21:46:59.297: Theme parsing error: <data>:1:31: Expected ')' in color definition
+
+(firefox:16967): Gtk-WARNING **: 21:46:59.297: Theme parsing error: <data>:1:75: Expected ')' in color definition
+1552438020845	Marionette	INFO	Listening on port 34055
+1552438020968	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 16967, Gecko_IOThread] WARNING: pipe error (37): Conexão fechada pela outra ponta: file /build/firefox-eA9fYo/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1552438106797	Marionette	INFO	Stopped listening on port 34055
