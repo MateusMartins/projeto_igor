@@ -3,8 +3,6 @@ sys.path.insert(0, '/home/mateus/Área de Trabalho/trabalho/projeto_igor/')
 from json_location.search import get_coordenadas, get_timestamp, get_senac_time
 from json_location.input import input_table
 
-
-
 def app():
     longitude = []
     latitude = []
