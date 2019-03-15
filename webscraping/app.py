@@ -1,15 +1,13 @@
+import sys
+sys.path.insert(0, '/home/mateus/Área de Trabalho/trabalho/projeto_igor/')
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from time import sleep
-from data_scraping import get_botao_avancar, get_driver, get_header, get_value
-from config import *
-import database
-import mysql.connector as mariadb
+from webscraping.data_scraping import get_botao_avancar, get_header, get_value
+from webscraping.config import get_driver
+from webscraping.input import input_table
 
 def app():
-
-    mariadb_connection = database.mariadb_connection()
-    cursor = mariadb_connection.cursor()
     
     data_dict = {}
     header = []
@@ -34,9 +32,7 @@ def app():
             break
     
     sleep(3)
-    for i in range(len(data_dict['Licitador'])):
-        cursor.execute("insert into licitacao (dt_abertura, licitador, modalidade, nr_publicacao, objeto) VALUES ('{}','{}','{}','{}','{}')".format(data_dict[header[0]][i], data_dict[header[1]][i], data_dict[header[2]][i], data_dict[header[3]][i], data_dict[header[4]][i]))
-    mariadb_connection.commit()
-    return data_dict
+    
+    return input_table(data_dict, header)
 
-data_dict = app()
+print(app())

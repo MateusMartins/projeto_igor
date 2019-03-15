@@ -1,10 +1,11 @@
-import database
+import sys
+sys.path.insert(0, '/home/mateus/Área de Trabalho/trabalho/projeto_igor/')
+from database.database import mariadb_connection
 import mysql.connector as mariadb
 import matplotlib.pyplot
-import tkinter
 
 # Define os parametros
-mariadb_connection = database.mariadb_connection()
+mariadb_connection = mariadb_connection()
 cursor = mariadb_connection.cursor()
 firstname_list = []
 age_list = []
@@ -19,4 +20,3 @@ for firstname, age in cursor:
 
 matplotlib.pyplot.plot(firstname_list, age_list)
 matplotlib.pyplot.show()
-
